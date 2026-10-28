@@ -1,1 +1,2 @@
 # Stock-Market
+The Stock Market Data Analysis project is a Python-based project that uses the NumPy library to analyze stock market data, including opening prices, closing prices, daily highs and lows, and trading volumes. It performs calculations such as average stock prices, percentage changes, price fluctuations, and returns. The project helps identify market trends and understand stock price movements through numerical data analysis.
